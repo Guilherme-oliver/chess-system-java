@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="86ec2023-3af3-4a77-a90f-a732cf7b95d8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../course/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/course.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/out/production/course/application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course/src/entities/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/course02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/out/production/course02/application/Program.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/out/production/course02/entities/Products.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/src/application/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../course02/src/entities/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/courseFinalOO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/out/production/courseFinalOO/entities/Dollar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/out/production/courseFinalOO/entities/Euro.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/out/production/courseFinalOO/util/CurrencyConverter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/src/entities/Dollar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/src/entities/Euro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseFinalOO/src/util/CurrencyConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../courseTwo/courseTwo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../enumeracoes/enumeracoes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../herança&amp;polimorfismo/herança&amp;polimorfismo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/orientacao_objeto.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaRepetitiva/aula45.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaRepetitiva/aula50.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaRepetitiva/aula55.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaRepetitiva/aula55_2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/aula038.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/aula35.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/aula39$Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/aula39.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_01.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_03.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_04.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_05.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_06.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_07.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exercicio_if_08.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/estruturaSequencial/exrcicio02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/outrosTopicos/bitABit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/outrosTopicos/funcoesParaString.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/outrosTopicos/funcoesParaString02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/outrosTopicos/funcoesSintaxe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/out/production/orientacao_objeto/outrosTopicos/funcoesSintaxe02.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaRepetitiva/aula45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaRepetitiva/aula50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaRepetitiva/aula55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaRepetitiva/aula55_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/aula038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/aula35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/aula39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/aula39_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_07.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exercicio_if_08.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/estruturaSequencial/exrcicio02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/outrosTopicos/bitABit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/outrosTopicos/funcoesParaString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/outrosTopicos/funcoesParaString02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/outrosTopicos/funcoesSintaxe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../orientacao_objeto/src/outrosTopicos/funcoesSintaxe02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reserva/reserva.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23YoG6MO4K9paCikVTvrx7aqP1w" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="86ec2023-3af3-4a77-a90f-a732cf7b95d8" name="Changes" comment="" />
+      <created>1641920284436</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641920284436</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
